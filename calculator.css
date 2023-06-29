@@ -9,7 +9,7 @@ body{
     display: grid;
     height: 100vh;      /*1%=1vh (viewport height)*/
     place-items: center;
-    background-image: url("3.jpg") ;
+    background-image: url("1.jpg") ;
 }
 
 .main{
@@ -34,7 +34,7 @@ body{
     margin: auto;
     border-radius: 6px;
     color: white;
-    background-image: url("5.jpg");
+    background-image: url("2.jpg");
 }
 .buttons input[type='button']{
     width: 90px;
